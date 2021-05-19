@@ -16,5 +16,6 @@ public class WebActivity extends AppCompatActivity {
         final String url = getIntent().getStringExtra("url");
         WebView webView = findViewById(R.id.activity_web_wv);
         webView.loadUrl(url);
+
     }
 }

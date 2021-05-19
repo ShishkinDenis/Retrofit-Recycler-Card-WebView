@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.shishkin.retrofitrecycler.R;
+import com.shishkin.retrofitrecycler.adapter.MainArticleAdapter;
 import com.shishkin.retrofitrecycler.model.Article;
 import com.shishkin.retrofitrecycler.model.ResponseModel;
 import com.shishkin.retrofitrecycler.rests.APIInterface;
